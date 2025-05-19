@@ -85,15 +85,13 @@ Train machine learning models for price prediction or classification tasks.
 
 Visualize feature importance.
 
-📂 *File Structure**
-bash
-Copy
-Edit
+📂 **File Structure**
 flight_price_preprocessing/
 │
 ├── flight_price.xlsx             # Raw dataset
 ├── preprocessing_script.ipynb    # Jupyter notebook with all preprocessing
 └── README.md                     # This file
+
 🤝 **Contributing**
 Feel free to fork the repo and suggest improvements in data cleaning or modeling. Always welcome to collaboration!
 
